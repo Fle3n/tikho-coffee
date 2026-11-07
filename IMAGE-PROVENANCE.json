@@ -1,0 +1,11 @@
+{
+  "mode": "built-in image_gen.imagegen",
+  "created_at": "2026-11-06",
+  "purpose": "Fictional portfolio website concept assets; no real clinic claims.",
+  "assets": [
+    {
+      "destination": "assets/coffee-v3.png",
+      "prompt": "Use case: photorealistic-natural\nAsset type: photographic website asset for a fictional premium coffee portfolio concept, not a UI mockup.\nPrimary request: editorial product photograph of a close, well-made flat white in a pale ceramic cup on a light limestone table with one small flaky croissant beside it.\nScene/backdrop: quiet grey and off-white cafe surroundings, uncluttered and softly out of focus.\nStyle/medium: premium honest real food photography, natural photographic detail, no illustration, no 3D rendering.\nComposition/framing: landscape 4:3 image, intimate three-quarter overhead view, cup and croissant arranged naturally with breathing room around them; the whole cup visible.\nLighting/mood: morning side light, subtle believable shadows, calm and inviting.\nMaterials/textures: rich espresso crema and delicate microfoam latte art, tactile pale ceramic glaze, fine limestone texture, crisp buttery croissant layers.\nConstraints: no people, no hands, no lettering, no text, no logos, no watermark. Produce one single photograph."
+    }
+  ]
+}

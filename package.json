@@ -1,0 +1,14 @@
+{
+  "name": "tikho-coffee",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Меню с выбором объёма и молока, корзина с демочеком и бариста, который подбирает напитки по вкусу и бюджету.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "check": "node --check server.mjs && node --check public/app.js && node --test tests/logic.test.mjs"
+  }
+}
